@@ -21,6 +21,12 @@ If you find something we missed, [please let us know](https://github.com/happypr
 
 ## Changelog
 
+### 1.3.1
+
+* No functional changes.
+* Replace `@wordpress/scripts` dependency with leaner configuration.
+* Confirm WordPress 6.5 support.
+
 ### 1.3.0
 
 * Remove "Manage Comments" from site menus under My Sites on multisite.

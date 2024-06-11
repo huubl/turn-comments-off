@@ -3,7 +3,7 @@ Contributors: happyprime, jeremyfelt, slocker, philcable
 Tags: comments
 Requires at least: 5.9
 Tested up to: 6.5
-Stable tag: 1.3.0
+Stable tag: 1.3.1
 License: GPLv2 or later
 Requires PHP: 7.4
 
@@ -27,6 +27,12 @@ No configuration necessary (or available).
 If you find something we missed, [please let us know](https://github.com/happyprime/turn-comments-off)!
 
 ## Changelog
+
+### 1.3.1
+
+* No functional changes.
+* Replace `@wordpress/scripts` dependency with leaner configuration.
+* Confirm WordPress 6.5 support.
 
 ### 1.3.0
 
