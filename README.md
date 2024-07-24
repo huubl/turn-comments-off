@@ -21,6 +21,12 @@ If you find something we missed, [please let us know](https://github.com/happypr
 
 ## Changelog
 
+### 1.3.2
+
+* No functional changes.
+* Update development dependencies.
+* Confirm WordPress 6.6 support.
+
 ### 1.3.1
 
 * No functional changes.
